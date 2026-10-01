@@ -1,0 +1,267 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "leafDoctor": "Leaf Doctor",
+    "soilConsultant": "Soil Consultant",
+    "weather": "Weather",
+    "history": "History",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Login to continue",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember Me",
+    "forgot": "Forgot Password?",
+    "login": "Login",
+    "register": "Create Account",
+    "noAccount": "Don't have an account?"
+  },
+
+  "register": {
+    "title": "Create Account",
+    "subtitle": "Join KisanAI",
+    "fullname": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "register": "Register",
+    "already": "Already have an account?",
+    "login": "Login"
+  },
+
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome Back",
+    "overview": "Farm Overview",
+    "quickActions": "Quick Actions",
+    "weather": "Today's Weather",
+    "soilHealth": "Soil Health",
+    "recentScans": "Recent Scans",
+    "leafDoctor": "Leaf Doctor",
+    "scanNow": "Scan Now",
+    "viewAll": "View All",
+    "healthy": "Healthy",
+    "warning": "Warning",
+    "good": "Good",
+    "excellent": "Excellent",
+    "goodMorning": "Good morning! Here are today's AI-powered farming recommendations.",
+    "soilAnalysis": "Soil Analysis",
+    "weatherForecast": "Weather Forecast",
+  "cropRecommendation": "Crop Recommendation",
+   "recentActivities": "Recent Activities",
+   "cropHealthTrends": "Crop Health Trends",
+  "activeAlerts": "Active Alerts"
+  },
+"airecommedationcard":{
+
+  "aiRecommendationTitle": "AI Recommendation for Today",
+  "aiPowered": "AI Powered",
+  "recommendationSubtitle": "Based on weather, soil and crop analysis",
+
+  "rainTitle": "Heavy rainfall expected after 4:00 PM",
+  "rainDesc": "Avoid pesticide spraying today.",
+
+  "waterTitle": "Irrigate your crops before 11:00 AM",
+  "waterDesc": "Soil moisture is ideal for watering.",
+
+  "diseaseTitle": "Tomato crop shows LOW fungal disease risk",
+  "diseaseDesc": "No immediate action needed.",
+
+  "marketTitle": "Market price for Tomato is stable",
+  "marketDesc": "Good time to hold for a better price.",
+
+  "viewReport": "View Detailed Report",
+  "askAI": "Ask AI Assistant",
+
+  "aiConfidence": "AI Confidence",
+
+  "weather": "Weather",
+  "weatherStatus": "Rainy",
+
+  "soilHealth": "Soil Health",
+  "soilHealthStatus": "Good",
+
+  "diseaseRisk": "Disease Risk",
+  "diseaseRiskStatus": "Low",
+
+  "lastUpdated": "Last Updated",
+  "today830": "Today, 8:30 AM"
+},
+  "leafDoctor": {
+    "title": "Leaf Doctor",
+    "subtitle": "AI-powered plant disease detection",
+    "upload": "Upload Leaf Image",
+    "dragDrop": "Drop your leaf image here",
+    "browse": "or click to browse",
+    "analyze": "Analyze Disease",
+    "uploadNew": "Upload New Sample",
+    "clear": "Clear",
+    "analysis": "Analysis Complete",
+    "disease": "Detected Disease",
+    "confidence": "Confidence",
+    "severity": "Severity",
+    "affected": "Affected Area",
+    "urgency": "Treatment Urgency",
+    "description": "Description",
+    "recommendations": "Treatment Recommendations",
+    "download": "Download Report",
+    "history": "Save to History",
+    "ai": "AI Recommendation",
+    "noAnalysis": "No Analysis Yet",
+    "noAnalysisDesc": "Upload a leaf image to start AI analysis.",
+    "analyzeAgain": "Analyze Again"
+  },
+
+  "soilConsultant": {
+    "title": "Soil Consultant",
+    "subtitle": "AI-powered soil health analysis and recommendations",
+    "upload": "Upload Soil Report",
+    "analyze": "Analyze Soil",
+    "soilHealth": "Soil Health Score",
+    "ph": "pH Value",
+    "nitrogen": "Nitrogen",
+    "phosphorus": "Phosphorus",
+    "potassium": "Potassium",
+    "recommendation": "Recommendations",
+    "fertilizer": "Suggested Fertilizer",
+    "crop": "Recommended Crops",
+     "moisture": "Moisture",
+     "organicMatter": "Organic Matter ",
+     "targetCrop": "Target Crop",
+     "tomato": "Tomato",
+  "rice": "Rice",
+  "wheat": "Wheat",
+  "corn": "Corn",
+  "potato": "Potato",
+  "cotton": "Cotton",
+  "sugarcane": "Sugarcane",
+  "vegetables": "Mixed Vegetables",
+  "analyzing": "Analyzing...",
+   "enterSoilParameters": "Enter Soil Parameters",
+  "soilParametersSubtitle": "Fill in your soil test results to receive personalized recommendations for your crops."
+  },
+
+  "weather": {
+    "subtitle": "Agricultural weather insights and alerts for your farm",
+    "title": "Weather Forecast",
+    "today": "Today's Weather",
+    "humidity": "Humidity",
+    "temperature": "Temperature",
+    "wind": "Wind Speed",
+    "rain": "Rainfall",
+    "forecast": "7-Day Forecast",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "uv": "UV Index",
+     "feelsLike": "Feels Like",
+  "evapotranspirationRate": "Evapotranspiration Rate",
+  "soilTemperature": "Soil Temperature",
+  "growingDegreeDays": "Growing Degree Days",
+  "diseaseRisk": "Disease Risk",
+  "sevenDayForecast": "7-Day Forecast",
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "irrigationRecommendation": "Irrigation Recommendation",
+  "reduceIrrigationToday": "Reduce Irrigation Today",
+  "waterSavings": "Water Savings",
+  "spraySchedule": "Spray Schedule"
+  },
+
+  "history": {
+    "title": "History",
+    "subtitle": "View your past analyses and activities",
+    "search": "Search history...",
+    "export": "Export PDF",
+    "all": "All Records",
+    "scan": "Scans",
+    "soil": "Soil Reports",
+    "weather": "Weather Reports",
+    "type": "Type",
+    "details": "Details",
+    "date": "Date",
+    "status": "Status",
+    "actions": "Actions",
+    "view": "View",
+    "delete": "Delete",
+    "completed": "Completed",
+    "active": "Active",
+    "empty": "No records found"
+  },
+
+ "settings": {
+  "title": "Settings",
+  "subtitle": "Manage your preferences",
+  "profile": "Profile Information",
+  "notifications": "Notifications",
+  "appearance": "Appearance",
+  "security": "Security",
+  "language": "Language",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "auto": "Auto",
+  "save": "Save Changes",
+  "saved": "Settings saved successfully!",
+  "regionalPreferences": "Regional Preferences",
+  "role":"Role",
+  "fullName": "Full Name",
+  "email": "Email",
+  "phone": "Phone",
+  "farmName": "Farm Name",
+  "location": "Location",
+  "farmSize": "Farm Size",
+
+  "emailAlerts": "Email Alerts",
+  "receiveEmailNotifications": "Receive email notifications",
+
+  "pushNotifications": "Push Notifications",
+  "browserPushAlerts": "Receive browser push notifications",
+
+  "diseaseAlerts": "Disease Alerts",
+  "immediateDiseaseWarnings": "Receive immediate disease warnings",
+
+  "weatherAlerts": "Weather Alerts",
+  "severeWeatherWarnings": "Receive severe weather warnings",
+
+  "weeklyReports": "Weekly Reports",
+  "weeklySummaryReports": "Receive weekly summary reports",
+
+  "temperatureUnit": "Temperature Unit",
+  "measurementSystem": "Measurement System",
+
+  "twoFactorAuthentication": "Two-Factor Authentication",
+  "extraSecurity": "Add an extra layer of security to your account",
+
+  "sessionTimeout": "Session Timeout (minutes)"
+},
+
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "search": "Search",
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "Something went wrong",
+    "back": "Back",
+    "next": "Next",
+    "askAI": "Ask AI"
+  }
+}
